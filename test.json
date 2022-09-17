@@ -1,0 +1,148 @@
+{
+    "term": "Sorgun",
+    "moresuggestions": 0,
+    "autoSuggestInstance": null,
+    "trackingID": "e3468ea10b354dd183f5f6474c3dee2d",
+    "misspellingfallback": false,
+    "suggestions": [
+        {
+            "group": "CITY_GROUP",
+            "entities": [
+                {
+                    "geoId": "553248635493176594",
+                    "destinationId": "11114272",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.76461932595017,
+                    "longitude": 31.434247752172674,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Sorgun</span> Mahallesi, Manavgat, Antalya Region, Turkey",
+                    "name": "Sorgun Mahallesi"
+                },
+                {
+                    "geoId": "3000012972",
+                    "destinationId": "10381641",
+                    "landmarkCityDestinationId": null,
+                    "type": "CITY",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 39.810211,
+                    "longitude": 35.236764,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Sorgun</span>, Yozgat, Turkey",
+                    "name": "Sorgun"
+                }
+            ]
+        },
+        {
+            "group": "HOTEL_GROUP",
+            "entities": [
+                {
+                    "geoId": "76416760",
+                    "destinationId": "2446336320",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.756425,
+                    "longitude": 31.456822,
+                    "searchDetail": null,
+                    "caption": "<span class='highlighted'>Sorgun</span> Akadia Luxury Hotel, Manavgat, Antalya Region, Turkey",
+                    "name": "Sorgun Akadia Luxury Hotel"
+                },
+                {
+                    "geoId": "9835472",
+                    "destinationId": "490320",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.75695,
+                    "longitude": 31.419673,
+                    "searchDetail": null,
+                    "caption": "Voyage <span class='highlighted'>Sorgun</span>, Manavgat, Antalya Region, Turkey",
+                    "name": "Voyage Sorgun"
+                },
+                {
+                    "geoId": "4513329",
+                    "destinationId": "566082",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.763879,
+                    "longitude": 31.415109,
+                    "searchDetail": null,
+                    "caption": "Ali Bey Resort <span class='highlighted'>Sorgun</span> - All Inclusive, Manavgat, Antalya Region, Turkey",
+                    "name": "Ali Bey Resort Sorgun - All Inclusive"
+                },
+                {
+                    "geoId": "20486665",
+                    "destinationId": "656573280",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 39.80438,
+                    "longitude": 35.207454,
+                    "searchDetail": null,
+                    "caption": "Safa <span class='highlighted'>Sorgun</span> Thermal Hotel Wellness & Spa, Sorgun, Yozgat, Turkey",
+                    "name": "Safa Sorgun Thermal Hotel Wellness & Spa"
+                },
+                {
+                    "geoId": "15744607",
+                    "destinationId": "614664",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.750187,
+                    "longitude": 31.46545,
+                    "searchDetail": null,
+                    "caption": "Bosphorus <span class='highlighted'>Sorgun</span> Hotel - All Inclusive, Manavgat, Antalya Region, Turkey",
+                    "name": "Bosphorus Sorgun Hotel - All Inclusive"
+                },
+                {
+                    "geoId": "17484703",
+                    "destinationId": "560510496",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.758604,
+                    "longitude": 31.428058,
+                    "searchDetail": null,
+                    "caption": "Tui Blue Sensatori Barut <span class='highlighted'>Sorgun</span> - All Inclusive, Manavgat, Antalya Region, Turkey",
+                    "name": "Tui Blue Sensatori Barut Sorgun - All Inclusive"
+                },
+                {
+                    "geoId": "76630523",
+                    "destinationId": "2453176736",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.750847,
+                    "longitude": 31.456036,
+                    "searchDetail": null,
+                    "caption": "Azura Deluxe Resort & Aqua <span class='highlighted'>Sorgun</span>, Manavgat, Antalya Region, Turkey",
+                    "name": "Azura Deluxe Resort & Aqua Sorgun"
+                },
+                {
+                    "geoId": "31631016",
+                    "destinationId": "1013192512",
+                    "landmarkCityDestinationId": null,
+                    "type": "HOTEL",
+                    "redirectPage": "DEFAULT_PAGE",
+                    "latitude": 36.783,
+                    "longitude": 31.42917,
+                    "searchDetail": null,
+                    "caption": "Hotel Derin Ma <span class='highlighted'>Sorgun</span>, Manavgat, Antalya Region, Turkey",
+                    "name": "Hotel Derin Ma Sorgun"
+                }
+            ]
+        },
+        {
+            "group": "LANDMARK_GROUP",
+            "entities": []
+        },
+        {
+            "group": "TRANSPORT_GROUP",
+            "entities": []
+        }
+    ],
+    "geocodeFallback": false
+}
