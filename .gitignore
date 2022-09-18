@@ -105,8 +105,7 @@ celerybeat.pid
 .venv
 */.env
 env/
-*/.json
-history/
+history.json/
 venv/
 ENV/
 env.bak/
@@ -145,3 +144,4 @@ API
 Training
 Blog
 About
+/database/history.json
